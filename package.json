@@ -25,7 +25,7 @@
     "@fontsource/red-hat-display": "^5.0.3",
     "@fontsource/space-grotesk": "^5.0.3",
     "@styled-icons/bootstrap": "^10.47.0",
-    "@supabase/supabase-js": "^2.46.2",
+    "@supabase/supabase-js": "^2.49.4",
     "animated-number-react": "^0.1.2",
     "firebase": "^8.3.1",
     "framer-motion": "^10.12.16",
