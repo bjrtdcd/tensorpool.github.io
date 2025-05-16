@@ -23,7 +23,7 @@
     "@fontsource/open-sans": "^5.1.1",
     "@fontsource/poppins": "^5.1.1",
     "@fontsource/red-hat-display": "^5.0.3",
-    "@fontsource/space-grotesk": "^5.0.3",
+    "@fontsource/space-grotesk": "^5.2.6",
     "@styled-icons/bootstrap": "^10.47.0",
     "@supabase/supabase-js": "^2.46.2",
     "animated-number-react": "^0.1.2",
